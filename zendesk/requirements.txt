@@ -1,0 +1,7 @@
+google-cloud-pubsub
+google-cloud-secret-manager
+python-dotenv
+requests
+
+# https://arrow.readthedocs.io/en/latest/
+arrow

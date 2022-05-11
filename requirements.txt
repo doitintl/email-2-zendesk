@@ -1,0 +1,9 @@
+Flask
+google-cloud-pubsub
+google-cloud-secret-manager
+imap-tools
+python-dotenv
+requests
+
+# https://arrow.readthedocs.io/en/latest/
+arrow
